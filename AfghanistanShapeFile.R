@@ -1,0 +1,1 @@
+# script to set up map for Afghanistan
